@@ -27,3 +27,6 @@ yarn dev
 ```sh
 yarn build
 ```
+
+## Resource
+1. yt net ninja
