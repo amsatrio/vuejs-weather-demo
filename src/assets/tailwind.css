@@ -1,3 +1,8 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+    --font-roboto: Roboto, sans-serif;
+
+    --color-weather-primary: #00668A;
+    --color-weather-secondary: #004E71;
+}
